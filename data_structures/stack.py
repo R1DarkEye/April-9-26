@@ -1,5 +1,5 @@
 """
-Stack (Last-In, First-Out  – LIFO)
+Stack (Last-In, First-Out – LIFO)
 ===================================
 A stack lets you add and remove items only from one end (the "top").
 Think of a stack of plates: you always put a new plate on top and take
